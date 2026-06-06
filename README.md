@@ -5,7 +5,6 @@
 
 <br/>
 
-<!-- Visitor Counter + Badges -->
 <img src="https://komarev.com/ghpvc/?username=omjha-git&style=for-the-badge&color=0f0c29&label=PROFILE+VIEWS&labelColor=302b63" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/omjha-git?style=for-the-badge&color=00f5ff&labelColor=302b63&label=FOLLOWERS" />
@@ -121,72 +120,54 @@ const omJha: Developer = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### ⭐ TaskOrbit &nbsp;—&nbsp; Workflow Automation Platform
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> *A Zapier-inspired visual automation platform built for scale*
 
-### ⭐ TaskOrbit
-> *Zapier-inspired Workflow Automation Platform*
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![React Flow](https://img.shields.io/badge/React%20Flow-FF0072?style=for-the-badge&logo=react&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-5C2D91?style=for-the-badge&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omjha-git&repo=TaskOrbit&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/omjha-git/TaskOrbit)
+| Feature | Description |
+|---|---|
+| 🔀 **Workflow Builder** | Visual drag-and-drop editor powered by React Flow |
+| 📋 **Google Forms Trigger** | Kick off automations from form submissions |
+| 🌐 **HTTP Actions** | Make any API call inside your workflows |
+| 💬 **Notifications** | Discord & WhatsApp message delivery |
+| 🤖 **Gemini AI** | AI-powered steps inside workflows |
+| 🧮 **DAG Engine** | Dependency-aware execution with cycle detection |
+| 📊 **Monitoring** | Real-time execution history & logs |
 
-**Stack:**
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omjha-git/TaskOrbit)
 
-**Features:**
-- 🔀 Visual drag-and-drop workflow builder (React Flow)
-- 📋 Google Forms trigger integration
-- 🌐 HTTP Request actions
-- 💬 Discord & WhatsApp notifications
-- 🤖 Gemini AI integration
-- 🧮 DAG-based execution engine
-- 📊 Real-time monitoring & history
+---
 
-</td>
-<td width="50%" valign="top">
+### 🤖 RosieGPT &nbsp;—&nbsp; AI Conversational Assistant
 
-### 🤖 RosieGPT
-> *AI-powered Conversational Assistant*
+> *Full-featured chat app with auth, history, and modern UI*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omjha-git&repo=RosieGPT&theme=tokyonight&border_color=a78bfa&title_color=a78bfa&icon_color=00f5ff&text_color=c9d1d9)](https://github.com/omjha-git/RosieGPT)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Stack:**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+- 🔐 Secure authentication &nbsp;|&nbsp; 💬 Persistent chat history &nbsp;|&nbsp; 🎨 Modern responsive UI &nbsp;|&nbsp; ⚡ Real-time AI responses
 
-**Features:**
-- 🔐 Secure authentication system
-- 💬 Persistent chat history
-- 🎨 Modern, responsive UI
-- ⚡ Real-time AI responses
+[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omjha-git/RosieGPT)
 
-<br/>
+---
 
-### 🏠 Airbnb Clone
-> *Full-Stack Booking Platform*
+### 🏠 Airbnb Clone &nbsp;—&nbsp; Full-Stack Booking Platform
 
-**Stack:**
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+> *End-to-end rental platform with auth and property management*
 
-**Features:**
-- 🔑 Auth + OAuth integration
-- 🏡 Property listing & management
-- 🗺️ Map-based search
-- 📱 Fully responsive design
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</td>
-</tr>
-</table>
-
-</div>
+- 🔑 OAuth authentication &nbsp;|&nbsp; 🏡 Property listing management &nbsp;|&nbsp; 🗺️ Map-based search &nbsp;|&nbsp; 📱 Fully responsive
 
 <br/>
 
@@ -196,17 +177,17 @@ const omJha: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omjha-git&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omjha-git&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjha-git&layout=compact&theme=tokyonight&border_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&hide_border=false&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjha-git&layout=compact&theme=tokyonight&border_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omjha-git&theme=tokyonight&border=00f5ff&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=a78bfa&dates=c9d1d9&background=0d1117" />
+<img src="https://streak-stats.demolab.com/?user=omjha-git&theme=tokyonight&border=00f5ff&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=a78bfa&dates=c9d1d9&background=0d1117" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omjha-git&bg_color=0d1117&color=00f5ff&line=a78bfa&point=00f5ff&area=true&area_color=302b63&hide_border=false&border_color=00f5ff&radius=8" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omjha-git&bg_color=0d1117&color=00f5ff&line=a78bfa&point=00f5ff&area=true&hide_border=false&border_color=00f5ff&radius=8" width="95%" />
 
 </div>
 
@@ -218,7 +199,7 @@ const omJha: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=omjha-git&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
+<img src="https://github-profile-trophy.vercel.app/?username=omjha-git&theme=tokyonight&no-frame=false&margin-w=6&column=7" />
 
 </div>
 
@@ -256,10 +237,6 @@ const omJha: Developer = {
 <a href="https://github.com/omjha-git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
-&nbsp;
-<a href="mailto:omjha@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
 
 </div>
 
@@ -274,4 +251,5 @@ const omJha: Developer = {
 *⭐ Star my repos if you find them useful — it keeps me motivated!*
 
 </div>
+
 
