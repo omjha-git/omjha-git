@@ -1,176 +1,194 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Om%20Jha&fontSize=75&fontColor=00f5ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=22&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+TaskOrbit;Next.js+%7C+React+%7C+TypeScript;Learning+System+Design+%26+Agentic+AI" />
+<!-- Animated Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Om+Jha;Full+Stack+Developer;AI+%26+ML+Engineer;Building+TaskOrbit+%F0%9F%9A%80;Automation+Architect" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=omjha-git&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/omjha-git?style=for-the-badge&color=a78bfa&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/omjha-git?style=for-the-badge&color=00f5ff&label=STARS" />
+<!-- Visitor Counter + Badges -->
+<img src="https://komarev.com/ghpvc/?username=omjha-git&style=for-the-badge&color=0f0c29&label=PROFILE+VIEWS&labelColor=302b63" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/omjha-git?style=for-the-badge&color=00f5ff&labelColor=302b63&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-a78bfa?style=for-the-badge&labelColor=302b63" />
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 `whoami`
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ```typescript
-const omJha = {
+const omJha: Developer = {
   name: "Om Jha",
-  role: "Full Stack Developer",
-  interests: ["AI", "Web Development", "Automation", "System Design"],
+  title: "Full Stack Developer & AI Engineer",
 
   education: [
-    "B.Tech CSE (AI & ML) - VIT Chennai",
-    "BS Data Analytics - IIT Patna"
+    {
+      degree: "B.Tech CSE (AI & ML)",
+      institute: "VIT Chennai",
+    },
+    {
+      degree: "BS Data Analytics",
+      institute: "IIT Patna",
+    },
   ],
 
-  currentFocus: "Building TaskOrbit",
-  goal: "To build scalable products using Code, AI and Automation"
+  currentProject: "TaskOrbit 🚀",
+  passions: [
+    "Workflow Automation",
+    "AI Integration",
+    "Systems Design",
+    "Open Source",
+  ],
+
+  funFact: "I turn coffee ☕ into code 💻",
 };
 ```
 
----
-
-## 🎯 Current Focus
-
-- 🚀 Building **TaskOrbit** — Workflow Automation Platform
-- 🤖 Learning **Agentic AI** and **LLM-powered applications**
-- ⚙️ Improving **System Design** and backend architecture
-- 🌱 Exploring **Open Source** contributions
-- 💻 Strengthening **DSA and interview preparation**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+</td>
+<td valign="top" width="50%">
 
 <br/>
 
+### 🧠 Current Focus
+```
+🔭  Building TaskOrbit — Workflow Automation Platform
+🌱  Deep diving into LLMs & Agentic AI
+⚡  Mastering distributed systems & DAG execution
+🎯  Targeting top-tier SWE & ML roles
+```
+
+<br/>
+
+### 🎯 2025 Goals
+```
+✅  Ship TaskOrbit v1.0
+🔄  Contribute to major OSS projects
+📚  Master system design interviews
+🤖  Build production AI agents
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 💻 Tech Arsenal
+
+<div align="center">
+
+### ⚡ Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark&perline=7" />
+
+<br/>
+
+### 🛠️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark&perline=7" />
+
+&nbsp;
 <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
 <img src="https://img.shields.io/badge/Inngest-5C2D91?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+<br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark&perline=7" />
+
+<br/>
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=7" />
 
 </div>
+
+<br/>
 
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ⭐ TaskOrbit
+> *Zapier-inspired Workflow Automation Platform*
 
-**Workflow Automation Platform**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omjha-git&repo=TaskOrbit&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/omjha-git/TaskOrbit)
 
-A Zapier-inspired automation platform built with Next.js, TypeScript, Prisma, PostgreSQL, React Flow and Inngest.
+**Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
 
-**Features**
-
-- Visual drag-and-drop workflow builder
-- Google Forms Trigger
-- Stripe Trigger
-- HTTP Request Action
-- Discord Notifications
-- WhatsApp Messaging
-- Gemini AI Integration
-- DAG-based workflow execution
-- Execution history and monitoring
-
-**Tech Stack**
-
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `React Flow` `Inngest`
+**Features:**
+- 🔀 Visual drag-and-drop workflow builder (React Flow)
+- 📋 Google Forms trigger integration
+- 🌐 HTTP Request actions
+- 💬 Discord & WhatsApp notifications
+- 🤖 Gemini AI integration
+- 🧮 DAG-based execution engine
+- 📊 Real-time monitoring & history
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 RosieGPT
+> *AI-powered Conversational Assistant*
 
-**AI Chat Assistant**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omjha-git&repo=RosieGPT&theme=tokyonight&border_color=a78bfa&title_color=a78bfa&icon_color=00f5ff&text_color=c9d1d9)](https://github.com/omjha-git/RosieGPT)
 
-AI-powered conversational assistant with authentication, persistent chat history, modern UI and AI response generation.
+**Stack:**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
-**Features**
+**Features:**
+- 🔐 Secure authentication system
+- 💬 Persistent chat history
+- 🎨 Modern, responsive UI
+- ⚡ Real-time AI responses
 
-- User authentication
-- AI chat interface
-- Persistent chat history
-- Markdown response rendering
-- Clean and responsive UI
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `AI API`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ### 🏠 Airbnb Clone
+> *Full-Stack Booking Platform*
 
-**Full Stack Booking Platform**
+**Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
-A full-stack rental booking application with authentication, listings and property management features.
-
-**Features**
-
-- Authentication
-- Property listings
-- Booking flow
-- Responsive UI
-- User-friendly design
-
-**Tech Stack**
-
-`Next.js` `React` `Tailwind CSS` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 She Can Foundation Website
-
-**NGO Internship Project**
-
-A responsive website created for She Can Foundation internship task with modern design and clean UI.
-
-**Features**
-
-- Home section
-- About section
-- Volunteer / Join button
-- Responsive layout
-- Clean UI design
-
-**Tech Stack**
-
-`Next.js` `React` `Tailwind CSS`
+**Features:**
+- 🔑 Auth + OAuth integration
+- 🏡 Property listing & management
+- 🗺️ Map-based search
+- 📱 Fully responsive design
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
 
 ---
 
@@ -178,42 +196,52 @@ A responsive website created for She Can Foundation internship task with modern 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omjha-git&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjha-git&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omjha-git&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omjha-git&show_icons=true&theme=tokyonight&border_color=00f5ff&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjha-git&layout=compact&theme=tokyonight&border_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&hide_border=false&langs_count=8" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=omjha-git&theme=tokyo-night&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omjha-git&theme=tokyonight&border=00f5ff&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=a78bfa&dates=c9d1d9&background=0d1117" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omjha-git&bg_color=0d1117&color=00f5ff&line=a78bfa&point=00f5ff&area=true&area_color=302b63&hide_border=false&border_color=00f5ff&radius=8" width="95%" />
 
 </div>
 
+<br/>
+
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=omjha-git&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=omjha-git&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
 
 </div>
 
+<br/>
+
 ---
 
-## 📌 What I Am Learning
+## ⚡ Expertise Levels
 
-```text
-System Design
-Backend Architecture
-Agentic AI
-LLM Applications
-Cloud Deployment
-DSA for Interviews
-```
+<div align="center">
+
+| Skill | Level |
+|---|---|
+| **TypeScript / JavaScript** | ![](https://img.shields.io/badge/████████████████████░-95%25-00f5ff?style=flat-square&labelColor=0d1117) |
+| **React / Next.js** | ![](https://img.shields.io/badge/███████████████████░░-90%25-00f5ff?style=flat-square&labelColor=0d1117) |
+| **Node.js / Express** | ![](https://img.shields.io/badge/██████████████████░░░-85%25-a78bfa?style=flat-square&labelColor=0d1117) |
+| **PostgreSQL / Prisma** | ![](https://img.shields.io/badge/████████████████░░░░-80%25-a78bfa?style=flat-square&labelColor=0d1117) |
+| **AI / ML Engineering** | ![](https://img.shields.io/badge/███████████████░░░░░-75%25-f472b6?style=flat-square&labelColor=0d1117) |
+| **System Design** | ![](https://img.shields.io/badge/██████████████░░░░░░-70%25-f472b6?style=flat-square&labelColor=0d1117) |
+
+</div>
+
+<br/>
 
 ---
 
@@ -222,31 +250,28 @@ DSA for Interviews
 <div align="center">
 
 <a href="https://www.linkedin.com/in/om-jha--">
-<img src="https://img.shields.io/badge/LinkedIn-Om%20Jha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
-
+&nbsp;
 <a href="https://github.com/omjha-git">
-<img src="https://img.shields.io/badge/GitHub-omjha--git-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
-
-<a href="mailto:jhaom437@gmail.com">
-<img src="https://img.shields.io/badge/Email-jhaom437%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+&nbsp;
+<a href="mailto:omjha@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/><br/>
-
 ### 🚀 Building the future with Code, AI & Automation
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:24243e,50:302b63,100:0f0c29&section=footer" />
+*⭐ Star my repos if you find them useful — it keeps me motivated!*
 
 </div>
+
